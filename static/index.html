@@ -1,208 +1,309 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Faculty Information Chatbot</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f5f5f5;
-        }
-        h1 {
-            color: #333;
-            text-align: center;
-        }
-        #chat-container {
-            background-color: white;
-            border-radius: 10px;
-            padding: 20px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        }
-        #messages {
-            height: 400px;
-            overflow-y: auto;
-            margin-bottom: 20px;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-        }
-        .user-message {
-            background-color: #e1f5fe;
-            padding: 8px 15px;
-            margin: 5px 0;
-            border-radius: 15px;
-            max-width: 70%;
-            margin-left: auto;
-            text-align: right;
-        }
-        .bot-message {
-            background-color: #f1f1f1;
-            padding: 8px 15px;
-            margin: 5px 0;
-            border-radius: 15px;
-            max-width: 70%;
-        }
-        .error-message {
-            background-color: #ffebee;
-            color: #c62828;
-            padding: 8px 15px;
-            margin: 5px 0;
-            border-radius: 15px;
-            max-width: 70%;
-        }
-        #input-container {
-            display: flex;
-            margin-top: 10px;
-        }
-        #user-input {
-            flex-grow: 1;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            margin-right: 10px;
-        }
-        button {
-            padding: 10px 20px;
-            background-color: #4CAF50;
-            color: white;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-        button:hover {
-            background-color: #45a049;
-        }
-        button:disabled {
-            background-color: #cccccc;
-            cursor: not-allowed;
-        }
-        .loading {
-            text-align: center;
-            margin: 10px 0;
-            color: #666;
-        }
+      body {
+        font-family: Arial, sans-serif;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f5f5f5;
+      }
+      h1 {
+        color: #333;
+        text-align: center;
+      }
+      #chat-container {
+        background-color: white;
+        border-radius: 10px;
+        padding: 20px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+      #messages {
+        height: 400px;
+        overflow-y: auto;
+        margin-bottom: 20px;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+      }
+      .user-message {
+        background-color: #e1f5fe;
+        padding: 8px 15px;
+        margin: 5px 0;
+        border-radius: 15px;
+        max-width: 70%;
+        margin-left: auto;
+        text-align: right;
+      }
+      .bot-message {
+        background-color: #f1f1f1;
+        padding: 8px 15px;
+        margin: 5px 0;
+        border-radius: 15px;
+        max-width: 70%;
+      }
+      .error-message {
+        background-color: #ffebee;
+        color: #c62828;
+        padding: 8px 15px;
+        margin: 5px 0;
+        border-radius: 15px;
+        max-width: 70%;
+      }
+      #input-container {
+        display: flex;
+        margin-top: 10px;
+      }
+      #user-input {
+        flex-grow: 1;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        margin-right: 10px;
+      }
+      button {
+        padding: 10px 20px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #45a049;
+      }
+      button:disabled {
+        background-color: #cccccc;
+        cursor: not-allowed;
+      }
+      .loading {
+        text-align: center;
+        margin: 10px 0;
+        color: #666;
+      }
+      .rich-bot-message b {
+        color: #2e7d32;
+        font-weight: bold;
+      }
+      .rich-bot-message ul,
+      .rich-bot-message ol {
+        margin: 0 0 0 1.5em;
+        padding: 0;
+      }
+      .rich-bot-message li {
+        margin-bottom: 0.3em;
+      }
+      .rich-bot-message br {
+        line-height: 2;
+      }
+      .rich-bot-message {
+        /* Add a subtle background for formatted bot messages */
+        background-color: #f9fbe7;
+        font-size: 1.05em;
+        line-height: 1.6;
+      }
+      .bot-message.rich-bot-message {
+        background: #f9fbe7;
+        border-left: 5px solid #4caf50;
+        box-shadow: 0 2px 8px rgba(76, 175, 80, 0.07);
+        margin: 12px 0;
+        padding: 18px 22px 18px 18px;
+        border-radius: 12px 18px 18px 12px;
+        font-size: 1.08em;
+        line-height: 1.7;
+        color: #222;
+        position: relative;
+        word-break: break-word;
+      }
+      .bot-message.rich-bot-message::before {
+        content: '🤖';
+        position: absolute;
+        left: -32px;
+        top: 18px;
+        font-size: 1.5em;
+        opacity: 0.7;
+      }
+      .rich-bot-message b,
+      .rich-bot-message strong {
+        color: #2e7d32;
+        font-weight: bold;
+      }
+      .rich-bot-message ul,
+      .rich-bot-message ol {
+        margin: 10px 0 10px 1.7em;
+        padding: 0;
+      }
+      .rich-bot-message li {
+        margin-bottom: 0.4em;
+        font-size: 1em;
+      }
+      .rich-bot-message br {
+        line-height: 2;
+      }
+      .rich-bot-message em,
+      .rich-bot-message i {
+        color: #388e3c;
+      }
+      .rich-bot-message {
+        transition: box-shadow 0.2s;
+      }
+      .rich-bot-message code {
+        background: #e0f2f1;
+        color: #00695c;
+        padding: 2px 5px;
+        border-radius: 4px;
+        font-size: 0.98em;
+      }
+      .rich-bot-message .emoji {
+        font-size: 1.2em;
+        vertical-align: middle;
+      }
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <h1>Faculty Information Chatbot</h1>
     <div id="chat-container">
-        <div id="messages">
-            <div class="bot-message">Hello! I'm your faculty information assistant. How can I help you today?</div>
+      <div id="messages">
+        <div class="bot-message">
+          Hello! I'm your faculty information assistant. How can I help you
+          today?
         </div>
-        <div id="input-container">
-            <input type="text" id="user-input" placeholder="Ask a question about faculty...">
-            <button id="send-button">Send</button>
-        </div>
+      </div>
+      <div id="input-container">
+        <input
+          type="text"
+          id="user-input"
+          placeholder="Ask a question about faculty..."
+        />
+        <button id="send-button">Send</button>
+      </div>
     </div>
 
     <script>
-        const messagesContainer = document.getElementById('messages');
-        const userInput = document.getElementById('user-input');
-        const sendButton = document.getElementById('send-button');
-        
-        // Generate a random session ID for this chat session
-        const sessionId = Math.random().toString(36).substring(2, 15);
-        
-        function addMessage(message, isUser, isError = false) {
-            const messageDiv = document.createElement('div');
-            messageDiv.textContent = message;
-            messageDiv.className = isError ? 'error-message' : (isUser ? 'user-message' : 'bot-message');
-            messagesContainer.appendChild(messageDiv);
-            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+      const messagesContainer = document.getElementById('messages');
+      const userInput = document.getElementById('user-input');
+      const sendButton = document.getElementById('send-button');
+
+      // Generate a random session ID for this chat session
+      const sessionId = Math.random().toString(36).substring(2, 15);
+
+      function addMessage(message, isUser, isError = false) {
+        const messageDiv = document.createElement('div');
+        if (isError) {
+          messageDiv.textContent = message;
+          messageDiv.className = 'error-message';
+        } else if (isUser) {
+          messageDiv.textContent = message;
+          messageDiv.className = 'user-message';
+        } else {
+          // Render bot message as HTML to support <b>, <ul>, <li>, etc.
+          messageDiv.innerHTML = message;
+          messageDiv.className = 'bot-message rich-bot-message';
         }
-        
-        function addLoadingIndicator() {
-            const loadingDiv = document.createElement('div');
-            loadingDiv.textContent = 'Thinking...';
-            loadingDiv.className = 'loading';
-            loadingDiv.id = 'loading-indicator';
-            messagesContainer.appendChild(loadingDiv);
-            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        messagesContainer.appendChild(messageDiv);
+        messagesContainer.scrollTop = messagesContainer.scrollHeight;
+      }
+
+      function addLoadingIndicator() {
+        const loadingDiv = document.createElement('div');
+        loadingDiv.textContent = 'Thinking...';
+        loadingDiv.className = 'loading';
+        loadingDiv.id = 'loading-indicator';
+        messagesContainer.appendChild(loadingDiv);
+        messagesContainer.scrollTop = messagesContainer.scrollHeight;
+      }
+
+      function removeLoadingIndicator() {
+        const loadingDiv = document.getElementById('loading-indicator');
+        if (loadingDiv) {
+          messagesContainer.removeChild(loadingDiv);
         }
-        
-        function removeLoadingIndicator() {
-            const loadingDiv = document.getElementById('loading-indicator');
-            if (loadingDiv) {
-                messagesContainer.removeChild(loadingDiv);
-            }
+      }
+
+      async function sendMessage() {
+        const message = userInput.value.trim();
+        if (message === '') return;
+
+        // Add user message to chat
+        addMessage(message, true);
+        userInput.value = '';
+
+        // Disable input while processing
+        userInput.disabled = true;
+        sendButton.disabled = true;
+
+        // Show loading indicator
+        addLoadingIndicator();
+
+        try {
+          console.log('Sending request to /ask endpoint...');
+          const controller = new AbortController();
+          // Set a timeout of 2 minutes
+          const timeoutId = setTimeout(() => controller.abort(), 120000);
+
+          const response = await fetch('/ask', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+              question: message,
+              session_id: sessionId,
+            }),
+            signal: controller.signal,
+          });
+
+          clearTimeout(timeoutId);
+
+          console.log('Response status:', response.status);
+
+          if (!response.ok) {
+            const errorData = await response.json();
+            throw new Error(errorData.error || `Status ${response.status}`);
+          }
+
+          const data = await response.json();
+          console.log('Response data:', data);
+
+          // Remove loading indicator and add bot response
+          removeLoadingIndicator();
+          addMessage(data.answer, false);
+        } catch (error) {
+          console.error('Error:', error);
+          removeLoadingIndicator();
+
+          if (error.name === 'AbortError') {
+            addMessage(
+              'Request timed out. The server took too long to respond.',
+              false,
+              true
+            );
+          } else {
+            addMessage(
+              `Sorry, there was an error: ${error.message}`,
+              false,
+              true
+            );
+          }
+        } finally {
+          // Re-enable input
+          userInput.disabled = false;
+          sendButton.disabled = false;
+          userInput.focus();
         }
-        
-        async function sendMessage() {
-            const message = userInput.value.trim();
-            if (message === '') return;
-            
-            // Add user message to chat
-            addMessage(message, true);
-            userInput.value = '';
-            
-            // Disable input while processing
-            userInput.disabled = true;
-            sendButton.disabled = true;
-            
-            // Show loading indicator
-            addLoadingIndicator();
-            
-            try {
-                console.log('Sending request to /ask endpoint...');
-                const controller = new AbortController();
-                // Set a timeout of 2 minutes
-                const timeoutId = setTimeout(() => controller.abort(), 120000);
-                
-                const response = await fetch('/ask', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify({
-                        question: message,
-                        session_id: sessionId
-                    }),
-                    signal: controller.signal
-                });
-                
-                clearTimeout(timeoutId);
-                
-                console.log('Response status:', response.status);
-                
-                if (!response.ok) {
-                    const errorData = await response.json();
-                    throw new Error(errorData.error || `Status ${response.status}`);
-                }
-                
-                const data = await response.json();
-                console.log('Response data:', data);
-                
-                // Remove loading indicator and add bot response
-                removeLoadingIndicator();
-                addMessage(data.answer, false);
-            } catch (error) {
-                console.error('Error:', error);
-                removeLoadingIndicator();
-                
-                if (error.name === 'AbortError') {
-                    addMessage('Request timed out. The server took too long to respond.', false, true);
-                } else {
-                    addMessage(`Sorry, there was an error: ${error.message}`, false, true);
-                }
-            } finally {
-                // Re-enable input
-                userInput.disabled = false;
-                sendButton.disabled = false;
-                userInput.focus();
-            }
+      }
+
+      // Event listeners
+      sendButton.addEventListener('click', sendMessage);
+      userInput.addEventListener('keypress', function (e) {
+        if (e.key === 'Enter' && !userInput.disabled) {
+          sendMessage();
         }
-        
-        // Event listeners
-        sendButton.addEventListener('click', sendMessage);
-        userInput.addEventListener('keypress', function(e) {
-            if (e.key === 'Enter' && !userInput.disabled) {
-                sendMessage();
-            }
-        });
+      });
     </script>
-</body>
+  </body>
 </html>

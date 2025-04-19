@@ -1,0 +1,41 @@
+Abonnement annuel pour suivre le dossier de subvention et de prêt via SMS.
+
+**Qu'est-ce que c'est?**
+
+Un abonnement prépayé facultatif pour suivre le dossier de subvention et de prêt soumis au bureau des services universitaires du nord pour toute l'année académique de 2021/2022.  Disponible pour le public.
+
+** Condition nécessaire: **
+
+Soumettre le dossier de subvention au bureau des services universitaires du Nord (par courrier enregistré).
+
+** Comment s'abonner? **
+
+Abonnez-vous via SMS à 85000. Format: BN_CIN (un espace entre "BN" et le numéro d'identification national à 8 chiffres).  Exemple: si l'ID national est 01234567, envoyez BN 01234567.
+
+** Coût de l'abonnement: **
+
+Six cents Millimes (600 Millimes), prépayés et non remboursables.
+
+** Période d'abonnement: **
+
+5 novembre 2021 au 30 mai 2022.
+
+** Quand obtenir des résultats? **
+
+À partir du 5 novembre 2021 et des jours suivants selon le traitement des fichiers.
+
+** L'opérateur a répondu "Veuillez vérifier votre numéro d'identification national"? **
+
+Cela signifie que votre numéro d'identification national n'est pas dans la base de données des étudiants.
+
+** L'opérateur a répondu "Aucune subvention ou dossier de prêt trouvé en vertu de ce numéro"? **
+
+Attendez que votre fichier soumis soit traité. Vous recevrez un ou plusieurs SMS une fois votre fichier traité.
+
+** J'étudie à l'Université Sousse, puis-je participer? **
+
+Non, ce service n'est disponible que pour les étudiants de la région du Nord.
+
+** J'ai postulé en ligne, mais je n'ai reçu aucun SMS malgré la déduction des frais d'abonnement? **
+
+C'est rare. Envoyez un e-mail à no-reply@ooun.mesrs.tn, indiquant clairement votre numéro de téléphone utilisé pour l'abonnement et votre numéro d'identification national pour le dossier de subvention / prêt.

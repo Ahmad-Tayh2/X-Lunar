@@ -1,0 +1,67 @@
+**Project Title:** (To be defined)
+
+**Project Coordinator:** (Name and Surname)
+
+**Applicant Institution:**
+
+**Field of Activity:** (Industrial, Agricultural, Services, etc.)
+
+**Target Theme (National Priorities):**  (Select from the following)
+1. Water, Energy, and Food Security
+2. Citizen Health
+3. Digital Transition and Artificial Intelligence
+4. Advanced and Sustainable Materials
+5. Circular Economy
+
+**Specific Theme:**
+
+**Socio-economic and Professional Partners:**
+1.
+2.
+
+**Project Duration:** (Maximum 24 months)
+
+**I. Institutional Commitment:**  Commitment to support project execution and sustainability.  Declaration of competence and absence of conflict of interest.  Signatures of legal representative and project coordinator.
+
+**II. Project Presentation:**
+
+* **2.1. Research Context:** Description of research and innovation work.
+* **2.2. Problem and Originality:** Explanation of the problem (market pull or technology push).
+* **2.3. General Objectives:** (Max 5 points, 12 lines)
+* **2.4. SMART Objectives:** (Specific, Measurable, Attainable, Realistic, Timed)
+* **2.5. Innovation:** Explanation of the project's novelty and socio-economic interest.
+* **2.6. Key Results and Solution:** Description of results to be valorized.
+* **2.7. Maturity Level (TRL):** Current TRL level, target TRL level, and evolution of technological maturity.
+* **2.8. Alignment with Partner's Strategy:** Project's position within the partner's development strategy.
+* **2.9. Market Situation and Socio-economic Impacts:** Analysis of the sector and market, and desired socio-economic impacts.
+* **2.10. Methodology:** Description of the proposed methodology.
+* **2.11. Economic Viability:**  Economic viability study and dissemination/sustainability plan.
+
+**III. Academic Excellence and Outreach:** Description of R&D and innovation activities.  List of past projects, publications, patents, theses, awards.
+
+**IV. Project Implementation Plan:**
+
+* **4.1. Results Table:**  Table summarizing global objectives, project objectives, indicators, baseline values, and end-of-project values.  Similar table for project results and indicators.
+* **4.2. Activities:** Table detailing activities, characteristics, costs, and VRR contribution.
+* **4.3. Implementation Plan:** Gantt chart (in Annex 2).
+
+**V. Expected Impacts:**
+
+* **5.1. Results Chain:** Description of how the project contributes to expected impacts (innovation capacity, business competitiveness, environmental and social impact). Type of expected results, target beneficiaries, impact, and sustainability measures.
+* **5.2. Performance Framework:** Table showing expected results, performance indicators, and risks.
+
+**VI. Project Team:** Tables listing research team members, partner company team members, and involved young graduates (PhD students or post-docs).  CVs to be attached.
+
+**VII. Material and Financial Resources:**
+
+* **7.1. Contributions of Involved Structures:** Table showing contributions from the applicant institution, partner company, and other partners.
+* **7.2. Equipment and Consumables:** Table listing equipment and consumables to be acquired, quantities, unit prices, and acquisition year.
+* **7.3. Scholarships/Contracts:** Table showing the number of scholarships/contracts, qualifications, monthly amount, total amount, and annual breakdown.
+* **7.4. Annual Budget Breakdown:** Table showing the annual breakdown of the requested budget for equipment, consumables, research contracts, subcontracting, travel expenses, participation in international events, and documentation.
+
+**Signatures:**  Signatures from project coordinator, research structure head, institution head, partner company head, and other partners.  Scientific Council opinion.
+
+**Confidential Part (for administration):**  Table to indicate names of researchers to exclude from the evaluation.
+
+
+**Annexes:** Annex 1 (Detailed activity descriptions), Annex 2 (Implementation plan).

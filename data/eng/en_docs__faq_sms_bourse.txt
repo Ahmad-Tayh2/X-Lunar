@@ -1,0 +1,41 @@
+Annual subscription to follow up on grant and loan file via SMS.
+
+**What is it?**
+
+An optional prepaid subscription to follow up on the grant and loan file submitted to the University Services Office of the North for the entire 2021/2022 academic year.  Available to the public.
+
+**Necessary condition:**
+
+Submitting the grant file to the University Services Office of the North (via registered mail).
+
+**How to subscribe?**
+
+Subscribe via SMS to 85000.  Format: BN_CIN (one space between "BN" and the 8-digit national ID number).  Example: If the national ID is 01234567, send BN 01234567.
+
+**Subscription cost:**
+
+Six hundred millimes (600 millimes), prepaid and non-refundable.
+
+**Subscription period:**
+
+November 5, 2021 to May 30, 2022.
+
+**When to get results?**
+
+Starting November 5, 2021, and subsequent days depending on file processing.
+
+**Operator replied "Please verify your national ID number"?**
+
+This means your national ID number is not in the student database.
+
+**Operator replied "No grant or loan file found under this number"?**
+
+Wait for your submitted file to be processed. You will receive one or more SMS messages once your file is processed.
+
+**I study at Sousse University, can I participate?**
+
+No, this service is only available to students in the North region.
+
+**I applied online, but received no SMS despite the deduction of the subscription fee?**
+
+This is rare. Send an email to no-reply@ooun.mesrs.tn, clearly stating your phone number used for subscription and your national ID number for the grant/loan file.

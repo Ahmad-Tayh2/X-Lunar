@@ -1,0 +1,37 @@
+** Autorisation pour le dépôt de thèse **
+
+** Date: ** 01/02/2023
+
+**Superviseur:**
+
+* Nom: [Nom du superviseur]
+* Titre: [Professeur / conférencier / conférencier adjoint]
+* Institution: [Nom de l'institution]
+* Département: [Nom du département]
+* Laboratoire: [Nom de laboratoire]
+* CIN / PASSPORT: [ID du superviseur]
+
+**Étudiant:**
+
+* Première inscription dans M1: [Date]
+
+**Thèse:**
+
+* Type: [Master of Research / Master Professional]
+* Titre: [Titre de la thèse]
+
+** Remarque: ** La copie déposée de la thèse est considérée comme la version finale.
+
+** Signature du superviseur: ** [espace pour la signature]
+
+** Historique des modifications: **
+
+| Rôle | Nom | Date |
+| ------------ | -------------------- | ------------- |
+| Écrivain | Taoufik Ghrairi | 10/01/2023 |
+| Reviseur | Imen Jouini | 20/01/2023 |
+| Approbateur | Noureddine Amdouni | 01/02/2023 |
+
+| Version | Date | Objet de modification |
+| --------- | ------------- | ---------------------- |
+| 01 | 01/02/2023 | Création |

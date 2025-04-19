@@ -1,0 +1,28 @@
+``
+The state number, the name of the overnight, the address, the capacity
+1 Tunisia, the home of the Arab Maghreb Students Hinj Al -Idrisi No. 10 Tunisia 1075 160 free students, one bedroom, 410 d room with two beds 260 d room with 3 beds 260 d 71 338 902
+2 Bizerte Al -Zaytiti District Calitus District, Jerzouna Bizerte 7021 386 students contracted with the Diwan Room with two beds 90 d room with 3 beds 90 d 72.592.911 98.442.505 72.590.137
+3 Manouba Happening Street 2 March 1934 No. 19 Manouba 2010 120 free students room with one bed 300 d room with two beds 200 d 71.602.450 95.392.992
+4 Bizerte Bouchoucha Road Bin Nikarou Jarzouna Bizerte 7021 109 free students with a single bed room 155 d room with two beds 125 d room with 3 beds 125 d 72.591. 379 98.443.411
+5 Tunis Bouchoucha Hanj Al -Tunis, 5 Bardo 2000 38 free students, room with two bed
+6 Tunis Hinj Hanjad Hamed Mnasho No. 17 Mansfluor 2053 48 free students room with two bed
+7 Tunisia Munsif Munsab Abi Hinji Hassi Bouzin No. 100 Tunisia 2001 200 free students a single bed room 260 d room with two bed
+8 Jendouba Kermi Homing Hinj Omar Al -Mukhtar neighborhood Al -Firdaws Jendouba 8189 407 students contracted with the Diwan Room with two beds 94 d room with 3 beds 89 d 78.621.030 52.302.317 90.005.362
+9 Ariana Mbib Al -Iqbal 9 Street Environment Minister Ariana 2073 141 free students with a single bed room 360D two bedrooms 210 d room with 3 beds 210 d distinctive room with 3 beds 200 d 71.695.644 70.688.4 22
+10 Tunis, high -end Hinjan Osman Al -Bahri, 37 Urban, 1029 50 free students, a two -bedroom, 170 d room with 3 beds 160 d 71.898.248 28.188.512
+11 Tunis House of Song Hinj Dar Al -Ladb 795
+12 Zaghouan Mainb Al -Firdous neighborhood Al -Bati Al -Istiklal Street 1100 Zaghouan 81 students contracted with the Diwan room with 3 beds 100 d 72.682.820 98.319.968
+13 Jendouba Mitt al -Dakhili neighborhood Al -Hadi bin Hasi Jendouba 8189 77 students contracted with the Diwan Room with two bed
+14 Ariana Mainb Belt Hanjah Al -Hijuna Road Rawad Al -Ghazala neighborhood Ariana 2083 473 students + free students with a single bed room 300 d room with two beds 170 d room with 3 beds 120 d 71.757.414
+15 Tunis Mount Hinj Al -Fatimid Company 10 Bardo 2000 50 free students, one bedroom, 270 d room with two beds 220 d 71.223.960
+16 Bennubs, Yamsi Hanj, Al -Nuzha, 15 Ben Nabeul, 8060 57 Free Students, one bedroom, 350 d room with two beds, 225 d 71.285.920
+17 Tunis Metn Kermi Hanj Ibrahim Al -Muzah number 2 Olympic ornaments 1003 94 free students with a single bed room 300 d room with two beds 270 d 22.984.444 71,809,649
+18 Tunisia, House of Female Students, Hanj Al -Diwan, number 3, Western Karm, Tunisia, 1019, 18 free students, a two -bedroom, 180 d room with 3 beds 170 d 98.422.502 71.976.756
+19 Tunis Mainb Al -Mubia Al -Manar 1 Hanj Tallatla divided that 3 Al -Manar 1/2092 100 free students room with two beds 220 d room with two beds on the balcony 260 d 71.860.550 20.545.343 96.503.976
+20 Aryana Francois ingredient 4 bis Hinj Berriot Ariana 2080 45 free students with a single bed room 260 d room with two beds 230 d room with 3 beds 200 d 71.703.818 96.326.166
+21 Tunis, Sarah Al -Nasri Hanj, 7 Bardo, 2000 56 free students, one bedroom, 250 d room with two beds, 200 d room with 3 beds 170 d 71.703.818
+22 Al -Kaf Mitab Al -Baji District, Al -Anas, Tunis Road, Al -Kaf 7117, 51 male students contracted with the Diwan, a bed with two beds, 85 d room with 3 beds 85 d 98.447.105 78.226.147
+23 Zaghouan Mainb Al -Latif Al -Muqrin Zaghouan 1121 57 male students contracted with the Diwan Room with two beds 100 d room with 3 beds 100 d 72.660.158 24 447 997
+24 Tunis Miba Al -Saidi 15 Zanqa Sidi Al -Bidi Tunisia 42 free students a room with two beds 200 d room with 3 family 190 d 22.317.208
+25 Al -Kaf Mitt Al -Ayyari 256 Al -Basateen neighborhood Al -Kaf 78 male students contracted with the Diwan room with 3 beds 97,500 d 78.228.333 29.114.022
+26 Tunis Mainb Al -Tawfiq 96 Street 9 April Al -Kasbah, Tunis 35 free students, a single bedroom, 300 d room with two beds, 250 d room with 3 beds 210 d 71

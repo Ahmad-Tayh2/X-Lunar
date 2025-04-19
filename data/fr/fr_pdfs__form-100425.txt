@@ -1,0 +1,67 @@
+** Titre du projet: ** (à définir)
+
+** Coordinateur du projet: ** (nom et nom de famille)
+
+** Institution des candidats: **
+
+** Champ d'activité: ** (industriel, agricole, services, etc.)
+
+** Thème cible (priorités nationales): ** (Sélectionner parmi les éléments suivants)
+1. Sécurité de l'eau, de l'énergie et des aliments
+2. Santé des citoyens
+3. Transition numérique et intelligence artificielle
+4. Matériaux avancés et durables
+5. Économie circulaire
+
+** thème spécifique: **
+
+** Partenaires socio-économiques et professionnels: **
+1 et 1
+2
+
+** Durée du projet: ** (maximum 24 mois)
+
+**JE. Engagement institutionnel: ** Engagement à soutenir l'exécution et la durabilité du projet.  Déclaration de compétence et absence de conflit d'intérêts.  Signatures de représentant légal et coordinateur de projet.
+
+** ii. Présentation du projet: **
+
+* ** 2.1. Contexte de recherche: ** Description des travaux de recherche et d'innovation.
+* ** 2.2. Problème et originalité: ** Explication du problème (traction du marché ou poussée technologique).
+* ** 2.3. Objectifs généraux: ** (MAX 5 points, 12 lignes)
+* ** 2.4. Objectifs intelligents: ** (spécifique, mesurable, réalisable, réaliste, chronométré)
+* ** 2.5. Innovation: ** Explication de la nouveauté et de l'intérêt socio-économique du projet.
+* ** 2.6. Résultats clés et solution: ** Description des résultats à valoriser.
+* ** 2.7. Niveau de maturité (TRL): ** Niveau TRL actuel, niveau TRL cible et évolution de la maturité technologique.
+* ** 2.8. Alignement avec la stratégie du partenaire: ** Position du projet dans la stratégie de développement du partenaire.
+* ** 2.9. Situation du marché et impacts socio-économiques: ** Analyse du secteur et du marché, et des impacts socio-économiques souhaités.
+* ** 2.10. Méthodologie: ** Description de la méthodologie proposée.
+* ** 2.11. Viabilité économique: ** Étude de viabilité économique et plan de diffusion / durabilité.
+
+** III. Excellence académique et sensibilisation: ** Description des activités de R&D et d'innovation.  Liste des projets passés, publications, brevets, thèses, récompenses.
+
+** iv. Plan de mise en œuvre du projet: **
+
+* ** 4.1. Tableau des résultats: ** Tableau résumant les objectifs globaux, les objectifs du projet, les indicateurs, les valeurs de référence et les valeurs de fin de projection.  Tableau similaire pour les résultats du projet et les indicateurs.
+* ** 4.2. Activités: ** Tableau détaillant les activités, les caractéristiques, les coûts et la contribution VRR.
+* ** 4.3. Plan de mise en œuvre: ** Gantt Chart (à l'annexe 2).
+
+** v. Impacts attendus: **
+
+* ** 5.1. Chaîne de résultats: ** Description de la façon dont le projet contribue aux impacts attendus (capacité d'innovation, compétitivité commerciale, impact environnemental et social). Type de résultats attendus, bénéficiaires cibles, impact et mesures de durabilité.
+* ** 5.2. Cadre de performance: ** Tableau montrant les résultats attendus, les indicateurs de performance et les risques.
+
+** VI. Équipe de projet: ** Tables répertoriant les membres de l'équipe de recherche, les membres de l'équipe de l'entreprise partenaire et impliquait de jeunes diplômés (doctorants ou post-docs).  CVS à attacher.
+
+** VII. Ressources matérielles et financières: **
+
+* ** 7.1. Contributions des structures impliquées: ** Tableau montrant les contributions de l'institution du demandeur, de l'entreprise partenaire et d'autres partenaires.
+* ** 7.2. Équipement et consommables: ** Équipement de cotation de table et consommables à acquérir, quantités, prix unitaires et année d'acquisition.
+* ** 7.3. Bourses / contrats: ** Tableau indiquant le nombre de bourses / contrats, qualifications, montant mensuel, montant total et ventilation annuelle.
+* ** 7.4. Répartition du budget annuel: ** Tableau montrant la répartition annuelle du budget demandé pour l'équipement, les consommables, les contrats de recherche, la sous-traitance, les frais de voyage, la participation aux événements internationaux et la documentation.
+
+** Signatures: ** Signatures du coordinateur du projet, chef de la structure de recherche, chef de l'institution, chef de l'entreprise partenaire et autres partenaires.  Opinion du Conseil scientifique.
+
+** Partie confidentielle (pour l'administration): ** Tableau indique les noms des chercheurs à exclure de l'évaluation.
+
+
+** Annexes: ** Annexe 1 (Descriptions d'activités détaillées), annexe 2 (plan de mise en œuvre).

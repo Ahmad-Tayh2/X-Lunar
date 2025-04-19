@@ -79,7 +79,7 @@ async def ask_question(chat_request: ChatRequest):
             # Get the answer from the chatbot with a timeout
             answer = await asyncio.wait_for(
                 chatbot.ask(chat_request.question), 
-                timeout=60.0
+                timeout=120.0
             )
             logger.info(f"Got answer: {answer[:50]}...")
             

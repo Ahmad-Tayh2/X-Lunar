@@ -1,0 +1,37 @@
+**Authorization for Thesis Deposit**
+
+**Date:** 01/02/2023
+
+**Supervisor:**
+
+* Name: [Supervisor's Name]
+* Title: [Professor/Lecturer/Assistant Lecturer]
+* Institution: [Institution Name]
+* Department: [Department Name]
+* Laboratory: [Laboratory Name]
+* CIN/Passport: [Supervisor's ID]
+
+**Student:**
+
+* First registration in M1: [Date]
+
+**Thesis:**
+
+* Type: [Master of Research/Master Professional]
+* Title: [Thesis Title]
+
+**Note:** The deposited copy of the thesis is considered the final version.
+
+**Signature of Supervisor:** [Space for signature]
+
+**Modification History:**
+
+| Role       | Name             | Date       |
+|------------|--------------------|-------------|
+| Writer     | Taoufik GHRAIRI   | 10/01/2023 |
+| Reviewer   | Imen JOUINI       | 20/01/2023 |
+| Approver   | Noureddine AMDOUNI | 01/02/2023 |
+
+| Version | Date       | Modification Object |
+|---------|-------------|----------------------|
+| 01      | 01/02/2023 | Creation             |

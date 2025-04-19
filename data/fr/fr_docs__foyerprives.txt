@@ -1,0 +1,28 @@
+``
+Le numéro d'état, le nom de la nuit, l'adresse, la capacité
+1 Tunisie, la maison des étudiants arabes Maghreb Hinj al -idrisi n ° 10 Tunisie 1075 160 étudiants gratuits, une chambre, 410 D chambre avec deux lits 260 D chambre avec 3 lits 260 D 71 338 902
+2 Bizerte Al -zaytiti District Calitus District, Jerzouna Bizerte 7021 386 étudiants ont suivi un contrat avec la chambre Diwan avec deux lits 90 D avec 3 lits 90 D 72.592.911 98.442.505 72.590.137
+3 Manouba Happening Street 2 mars 1934 No. 19 Manouba 2010 120 Étudiants gratuits chambre avec un lit 300 D chambre avec deux lits 200 D 71.602.450 95.392.992
+4 Bizerte Bouchoucha Road Bin Nikarou Jarzouna Bizerte 7021 109 Étudiants gratuits avec une chambre simple 155 D chambre avec deux lits 125 D avec 3 lits 125 D 72.591. 379 98.443.411
+5 Tunis Bouchoucha Hanj Al -Tunis, 5 Bardo 2000 38 Étudiants gratuits, chambre avec deux lit
+6 Tunis Hinj Hanjad Hamed Mnasho No. 17 Mansfluor 2053 48 Salle des étudiants gratuits avec deux lit
+7 Tunisie Munsif Munsab Abi Hinji Hassi Bouzin n ° 100 Tunisie 2001 200 Étudiants gratuits une chambre à coucher une chambre à une seule chambre 260 D avec deux lit
+8 Jendouba Kermi Homing Hinj Omar Al -Mukhtar Neighbourhood Al -firdaws Jendouba 8189 407 étudiants contractés avec la chambre Diwan avec deux lits 94 D avec 3 lits 89 D 78.621.030 52.302.317 90.005.362
+9 Ariana MBIB AL -IQBAL 9 Ministre de l'Environnement Street Ariana 2073 141 Étudiants gratuits avec une chambre simple 360D Deux chambres 210 D chambre avec 3 lits 210 d chambre distinctive avec 3 lits 200 D 71.695.644 70.688.4 22
+10 Tunis, High -end Hinjan Osman Al -Bahri, 37 Urban, 1029 50 étudiants gratuits, une salle à deux caraves, 170 d chambre avec 3 lits 160 D 71.898.248 28.188.512
+11 Tunis House of Song Hinj Dar al -ladb 795
+12 ZAGHOUAN MAINB AL -FIRDOUS AL -BATI AL -ISTIKLAL STREET 1100 ZAGHOUAN 81 étudiants contractés avec la salle Diwan avec 3 lits 100 D 72.682.820 98.319.968
+13 Jendouba Mitt Al -Dakhili Quartier Al -Hadi Bin Hasi Jendouba 8189 77 étudiants ont contracté avec la salle Diwan avec deux lits
+14 Ariana Mainb Belt Hanjah Al -Hijuna Road Rawad Al -Ghazala Quartier Ariana 2083 473 Étudiants + Étudiants gratuits avec une chambre simple 300 D chambre avec deux lits 170 D chambre avec 3 lits 120 D 71.757.414
+15 Tunis Mount Hinj Al -Fatimid Company 10 Bardo 2000 50 étudiants gratuits, une chambre, 270 D chambre avec deux lits 220 D 71.223.960
+16 Bennubs, Yamsi Hanj, Al -nuzha, 15 Ben Nabeul, 8060 57 Étudiants gratuits, une chambre, 350 D chambre avec deux lits, 225 D 71.285.920
+17 Tunis Metn Kermi Hanj Ibrahim Al -Muzah Numéro 2 Ornements olympiques 1003 94 Étudiants gratuits avec une chambre simple 300 D chambre avec deux lits 270 D 22.984.444 71 809 649
+18 Tunisie, Chambre des étudiantes, Hanj Al -Diwan, numéro 3, Western Karm, Tunisie, 1019, 18 étudiants gratuits, une salle à deux, 180 d chambre avec 3 lits 170 D 98.422.502 71.976.756
+19 TUNIS MAINB AL -MUBIA AL -MANAR 1 HANJ TALLATLA a divisé ce 3 al -manar 1/2092 100 Étudiants gratuits chambre avec deux lits 220 d chambre avec deux lits sur le balcon 260 D 71.860.550 20.545.343 96.503.976
+20 ingrédient Aryana François 4 bis hinj berriot ariana 2080 45 Étudiants gratuits avec une chambre simple 260 d chambre avec deux lits 230 d chambre avec 3 lits 200 D 71.703.818 96.326.166
+21 Tunis, Sarah Al -Nasri Hanj, 7 Bardo, 2000 56 Étudiants gratuits, une chambre, 250 D chambre avec deux lits, 200 D chambre avec 3 lits 170 D 71.703.818
+22 Al -Kaf Mitab Al -Baji District, Al -Anas, Tunis Road, Al -Kaf 7117, 51 étudiants masculins contractés avec le Diwan, un lit avec deux lits, 85 d chambre avec 3 lits 85 D 98.447.105 78.226.147
+23 ZAGHOUAN MAINB AL -LATIF AL -MUQRIN ZAGHOUAN 1121 57 étudiants masculins ont contracté avec la chambre Diwan avec deux lits 100 D de chambre avec 3 lits 100 D 72.660.158 24 447 997
+24 Tunis Miba al -Saidi 15 Zanqa Sidi al -bidi Tunisie 42 Étudiants gratuits Une chambre avec deux lits 200 D chambre avec 3 familles 190 D 22.317.208
+25 Al -Kaf Mitt Al -ayyari 256 Al -Basateen Quartier AL -KAF 78 étudiants masculins contractés avec la salle Diwan avec 3 lits 97 500 D 78.228.333 29.114.022
+26 TUNIS MAINB AL -TAWFIQ 96 STREET 9 avril al -Kasbah, Tunis 35 étudiants gratuits, une chambre simple, 300 D chambre avec deux lits, 250 d chambre avec 3 lits 210 D 71

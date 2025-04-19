@@ -1,0 +1,34 @@
+Tunis El Manar University Website Publication Guide (November 2017)
+
+**Introduction:**  The University launched a new website to improve visibility and communication with its members.  This guide details how to publish information on the site.
+
+**I. Website Description:** The website has three main modules: News, Events, and Photo & Video Gallery.
+
+**II. Publication on the Website:**
+
+* **Who:** Faculty, researchers, administrative staff, students, and representatives of entities linked to the university.
+* **What:** Content adding scientific, cultural, or other value to the university, its institutions, or its members.
+* **How:**  Send publication requests and content to the webmaster's email address (located at the bottom of the website).  Content will be published within 48 hours of validation.
+
+**III. Content Format:**
+
+* **News:**
+    * Title (Arabic, French, English; max 150 characters)
+    * Keywords (Arabic, French, English; 3-5 words)
+    * Content (Arabic, French, English; text and links allowed)
+    * Required: 300x300 pixel image for the homepage
+    * Optional: 1280x500 pixel banner for the publication page
+
+* **Events:**
+    * Title (Arabic, French, English; max 150 characters)
+    * Keywords (Arabic, French, English; 3-5 words)
+    * Content (Arabic, French, English; text and links allowed)
+    * Required: 300x300 pixel image for the homepage
+    * Optional: 1280x500 pixel banner for the publication page
+
+* **Photo & Video Gallery:**
+    * Title (Arabic, French, English; max 150 characters)
+    * Photo Album (max 20 photos)
+    * Links to videos published with an official account (e.g., official YouTube page)
+
+**Conclusion:** The university aims to encourage innovation and highlight activities within its institutions, increasing its reputation and affirming its position as a leading university in Tunisia.

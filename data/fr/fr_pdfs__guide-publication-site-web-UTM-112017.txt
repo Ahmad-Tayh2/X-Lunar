@@ -1,0 +1,34 @@
+Guide de publication du site Web de l'Université Tunis El Manar (novembre 2017)
+
+** Introduction: ** L'université a lancé un nouveau site Web pour améliorer la visibilité et la communication avec ses membres.  Ce guide détaille comment publier des informations sur le site.
+
+**JE. Description du site Web: ** Le site Web dispose de trois modules principaux: les nouvelles, les événements et la galerie de photos et vidéo.
+
+** ii. Publication sur le site: **
+
+* ** Who: ** Faculté, chercheurs, personnel administratif, étudiants et représentants d'entités liées à l'université.
+* ** Quoi: ** Contenu ajoutant une valeur scientifique, culturelle ou autre à l'université, à ses institutions ou à ses membres.
+* ** Comment: ** Envoyez des demandes de publication et du contenu à l'adresse e-mail du webmaster (située en bas du site Web).  Le contenu sera publié dans les 48 heures suivant la validation.
+
+** III. Format de contenu: **
+
+* **Nouvelles:**
+    * Titre (arabe, français, anglais; Max 150 caractères)
+    * Mots-clés (arabe, français, anglais; 3-5 mots)
+    * Contenu (arabe, français, anglais; texte et liens autorisés)
+    * Obligatoire: 300x300 pixels pour la page d'accueil
+    * Facultatif: bannière 1280x500 pixels pour la page de publication
+
+* ** Événements: **
+    * Titre (arabe, français, anglais; Max 150 caractères)
+    * Mots-clés (arabe, français, anglais; 3-5 mots)
+    * Contenu (arabe, français, anglais; texte et liens autorisés)
+    * Obligatoire: 300x300 pixels pour la page d'accueil
+    * Facultatif: bannière 1280x500 pixels pour la page de publication
+
+* ** Photo et galerie vidéo: **
+    * Titre (arabe, français, anglais; Max 150 caractères)
+    * Album photo (Photos Max 20)
+    * Liens vers des vidéos publiées avec un compte officiel (par exemple, page YouTube officielle)
+
+** Conclusion: ** L'université vise à encourager l'innovation et à mettre en évidence les activités au sein de ses institutions, augmentant sa réputation et affirmant sa position de premier plan de la Tunisie.
