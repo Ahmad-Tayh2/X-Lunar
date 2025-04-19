@@ -282,17 +282,21 @@ class FacultyInfoChatbot:
                 language = 'fr' if 'fr' in self.chains else next(iter(self.chains))
                 logger.warning(f"No chain for language {language}, falling back to {language}")
             
-            # For debug mode, print retrieved documents
-            if self.debug_mode:
-                docs = await self.get_relevant_documents(question, language)
-                context = "\n\n".join([doc.page_content for doc in docs])
-                logger.info(f"Retrieved {len(docs)} documents from {language} vector store")
-                
-                # Generate response using the chain
-                response = await self.chains[language].ainvoke(question)
-            else:
-                # Use the chain directly (it handles retrieval internally)
-                response = await self.chains[language].ainvoke(question)
+            # Retrieve documents from the appropriate language-specific vector store
+            docs = await self.get_relevant_documents(question, language)
+            context = "\n\n".join([doc.page_content for doc in docs])
+            logger.info(f"Retrieved {len(docs)} documents from {language} vector store")
+            
+            # Generate response using the matching language prompt
+            prompt = self.prompts[language]
+            response_chain = prompt | self.llm | StrOutputParser()
+            
+            # Generate the response
+            response = await response_chain.ainvoke({
+                "context": context,
+                "question": question,
+                "chat_history": self.get_chat_history_str()
+            })
                 
             # Add to chat history
             self.add_message_to_history(question, response)

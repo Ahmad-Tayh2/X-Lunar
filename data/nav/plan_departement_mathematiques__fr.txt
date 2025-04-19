@@ -1,0 +1,38 @@
+departement;nom;etage;type;description
+Mathématiques;S1;Rez-de-chaussée;Salle;Salle de classe avant salle s6 juste se trouve a droite de l entree principale
+Mathématiques;S2;Rez-de-chaussée;Salle;Salle de classe entre s1 et s3
+Mathématiques;S3;Rez-de-chaussée;Salle;Salle de classe entre s2 et s4
+Mathématiques;S4;Rez-de-chaussée;Salle;Salle de classe entre s3 et s5
+Mathématiques;S5;Rez-de-chaussée;Salle;Salle de classe entre s5 et s6
+Mathématiques;S6;Rez-de-chaussée;Salle;Salle de classe entre s7 et au fond
+Mathématiques;Salle de Tirage;Rez-de-chaussée;Salle;Salle de tirage et d impression juste apres l entré ammphitheatre 
+Mathématiques;Salle des enseignants;Rez-de-chaussée;Salle;Salle réservée aux enseignants a coté des bureaux
+Mathématiques;Salle de cours Khawarizmi;Rez-de-chaussée;Salle;Centre Khawarizmi a coté du centre khawarezmi
+Mathématiques;Bibliothèque;Rez-de-chaussée;Salle;Bibliothèque a coté du centre khawarezmi
+Mathématiques;Lab Info;1er étage;Salle;Laboratoire informatique a coté de la salle s25
+Mathématiques;S21;1er étage;Salle;Salle de classe entre s22 et s20
+Mathématiques;S22;1er étage;Salle;Salle de classe entre s21 et s23
+Mathématiques;S23;1er étage;Salle;Salle de classe entre s22 et s24
+Mathématiques;S24;1er étage;Salle;Salle de classe entre s23 et s25
+Mathématiques;S25;1er étage;Salle;Salle de classe entre s24 et s26
+Mathématiques;S26;1er étage;Salle;Salle de classe entre s25 et s27 
+Mathématiques;Amphithéâtre AM1;1er étage;Amphithéâtre;"Grand amphithéâtre pour cours tout droit et vers la fin du couloir on tourne a gauche , a coyé des bureaux des enseignats en face du AM2"
+Mathématiques;Amphithéâtre AM2;1er étage;Amphithéâtre;"Grand amphithéâtre pour cours tout gauche et vers la fin du couloir on tourne a gauche , a coyé des bureaux des enseignats en face du AM1"
+Mathématiques;ME 201;2ème étage;Salle;Salle de classe 1 ere classe a l'entrée a gauche 
+Mathématiques;ME 202;2ème étage;Salle;Salle de classe entre ME201 et ME203
+Mathématiques;ME 203;2ème étage;Salle;Salle de classe  entre ME202 et ME204
+Mathématiques;ME 204;2ème étage;Salle;Salle de classe  entre ME203 et ME205
+Mathématiques;ME 205;2ème étage;Salle;Salle de classe  entre ME204 et ME206
+Mathématiques;ME 206;2ème étage;Salle;Salle de classe  entre ME205 et ME207
+Mathématiques;ME 207;2ème étage;Salle;Salle de classe  entre ME206 et ME208
+Mathématiques;ME 208;2ème étage;Salle;Salle de classe  entre ME207 et ME209
+Mathématiques;ME 209;2ème étage;Salle;Salle de classe 1 ere classe a l'entrée a droite 
+Mathématiques;ME 210;2ème étage;Salle;Salle de classe  entre ME209 et ME211
+Mathématiques;ME 211;2ème étage;Salle;Salle de classe  entre ME210 et ME212
+Mathématiques;ME 212;2ème étage;Salle;Salle de classe  entre ME211 et ME213
+Mathématiques;ME 213;2ème étage;Salle;Salle de classe  entre ME212 et ME214
+Mathématiques;ME 214;2ème étage;Salle;Salle de classe  entre ME215 et ME216
+Mathématiques;ME 215;2ème étage;Salle;Salle de classe  entre ME214 et ME216
+Mathématiques;ME 216;2ème étage;Salle;Salle de classe  entre ME215 et ME217
+Mathématiques;ME 217;2ème étage;Salle;Salle de classe  entre ME216 et ME218
+Mathématiques;ME 218;2ème étage;Salle;Salle de classe  entre ME209 et ME219

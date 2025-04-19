@@ -1,0 +1,15 @@
+Nom du Département,Emplacement Proche,Nombre d'Étages,Nombre de Salles
+Département du Cycle Préparatoire,Entre le Département de Mathématiques et l'Hôpital, en face du Département Central,2,16
+Département de Mathématiques,"Avant la Place Rouge et après le Département de Mathématiques Administratif, c’est le 2ᵉ département à droite à l'entrée de la faculté",2,25
+Département de Mathématiques Administratif,Avant le Département de Mathématiques, c’est le 1ᵉʳ département à droite à l'entrée de la faculté,2,16
+Département d’Informatique Enseignement,Le dernier département à droite, situé au fond de la faculté après le Département d’Informatique Administratif,2,16
+Département d’Informatique Administratif,Avant le Département d’Informatique Enseignement et après la salle de sport,2,16
+Annexe TP Informatique,Avant le Département de Physique Enseignement et après l’Hôpital,2,16
+Département de Chimie,Le dernier département à gauche, situé au fond de la faculté après la zone des clubs,2,16
+Département de Physique Enseignement,Entre le Département de Physique Administratif et en face de l’Annexe TP Informatique,2,16
+Département de Physique Administratif,Entre le Département de Physique Enseignement et en face du Département Central et de la cafétéria des étudiants,4,30
+Département Central de l’Administration,Situé au centre de la faculté après la Place Rouge et entouré par les autres départements,4,40
+Département de Biologie Administratif,Entre le Département de Biologie Enseignement et la zone des clubs,2,16
+Département de Biologie Enseignement,Entre le Département de Biologie Administratif et le 1ᵉʳ département à gauche à l'entrée de la faculté,2,16
+Salle de Sport,Avant le Département d’Informatique Administratif,1,4
+Zone des Clubs,Entre le Département de Biologie Administratif et le Département de Chimie,1,12

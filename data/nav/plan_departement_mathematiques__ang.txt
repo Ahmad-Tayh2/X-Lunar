@@ -1,0 +1,38 @@
+Department;Name;Floor;Type;Description
+Mathematics;S1;Ground floor;Room;Classroom before room S6, located just to the right of the main entrance
+Mathematics;S2;Ground floor;Room;Classroom between S1 and S3
+Mathematics;S3;Ground floor;Room;Classroom between S2 and S4
+Mathematics;S4;Ground floor;Room;Classroom between S3 and S5
+Mathematics;S5;Ground floor;Room;Classroom between S4 and S6
+Mathematics;S6;Ground floor;Room;Classroom between S5 and at the end
+Mathematics;Printing Room;Ground floor;Room;Printing and copying room just after the amphitheater entrance
+Mathematics;Teachers' Room;Ground floor;Room;Room reserved for teachers next to the offices
+Mathematics;Khawarizmi Classroom;Ground floor;Room;Khawarizmi Center next to the Khawarizmi Center
+Mathematics;Library;Ground floor;Room;Library next to the Khawarizmi Center
+Mathematics;IT Lab;1st floor;Room;Computer lab next to room S25
+Mathematics;S21;1st floor;Room;Classroom between S22 and S20
+Mathematics;S22;1st floor;Room;Classroom between S21 and S23
+Mathematics;S23;1st floor;Room;Classroom between S22 and S24
+Mathematics;S24;1st floor;Room;Classroom between S23 and S25
+Mathematics;S25;1st floor;Room;Classroom between S24 and S26
+Mathematics;S26;1st floor;Room;Classroom between S25 and S27
+Mathematics;Lecture Hall AM1;1st floor;Lecture Hall;"Large lecture hall for courses, go straight and at the end of the corridor turn left, next to teachers' offices and facing AM2"
+Mathematics;Lecture Hall AM2;1st floor;Lecture Hall;"Large lecture hall for courses, go left and at the end of the corridor turn left, next to teachers' offices and facing AM1"
+Mathematics;ME 201;2nd floor;Room;First classroom on the left at the entrance
+Mathematics;ME 202;2nd floor;Room;Classroom between ME201 and ME203
+Mathematics;ME 203;2nd floor;Room;Classroom between ME202 and ME204
+Mathematics;ME 204;2nd floor;Room;Classroom between ME203 and ME205
+Mathematics;ME 205;2nd floor;Room;Classroom between ME204 and ME206
+Mathematics;ME 206;2nd floor;Room;Classroom between ME205 and ME207
+Mathematics;ME 207;2nd floor;Room;Classroom between ME206 and ME208
+Mathematics;ME 208;2nd floor;Room;Classroom between ME207 and ME209
+Mathematics;ME 209;2nd floor;Room;First classroom on the right at the entrance
+Mathematics;ME 210;2nd floor;Room;Classroom between ME209 and ME211
+Mathematics;ME 211;2nd floor;Room;Classroom between ME210 and ME212
+Mathematics;ME 212;2nd floor;Room;Classroom between ME211 and ME213
+Mathematics;ME 213;2nd floor;Room;Classroom between ME212 and ME214
+Mathematics;ME 214;2nd floor;Room;Classroom between ME213 and ME215
+Mathematics;ME 215;2nd floor;Room;Classroom between ME214 and ME216
+Mathematics;ME 216;2nd floor;Room;Classroom between ME215 and ME217
+Mathematics;ME 217;2nd floor;Room;Classroom between ME216 and ME218
+Mathematics;ME 218;2nd floor;Room;Classroom between ME217 and ME219

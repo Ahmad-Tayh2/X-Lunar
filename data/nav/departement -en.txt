@@ -1,0 +1,15 @@
+Department Name,Nearby Location,Number of Floors,Number of Rooms
+Preparatory Cycle Department,Between the Mathematics Department and the Hospital, opposite the Central Department,2,16
+Mathematics Department,"Before the Red Square and after the Administrative Mathematics Department, it's the 2nd department on the right at the faculty entrance",2,25
+Administrative Mathematics Department,Before the Mathematics Department and it's the 1st department on the right at the faculty entrance,2,16
+Teaching Computer Science Department,The last department on the right, located at the far end of the faculty after the Administrative Computer Science Department,2,16
+Administrative Computer Science Department,Before the Teaching Computer Science Department and after the sports hall,2,16
+Computer Science TP Annex,Before the Teaching Physics Department and after the Hospital,2,16
+Chemistry Department,The last department on the left, located at the far end of the faculty and after the club area,2,16
+Teaching Physics Department,Between the Administrative Physics Department and opposite the Computer Science TP Annex,2,16
+Administrative Physics Department,Between the Teaching Physics Department and opposite the Central Department and student cafeteria,4,30
+Central Administration Department,Located in the middle of the faculty after the Red Square and surrounded by other departments,4,40
+Administrative Biology Department,Between the Teaching Biology Department and the club area,2,16
+Teaching Biology Department,Between the Administrative Biology Department and the 1st department on the left at the faculty entrance,2,16
+Sports Hall,Before the Administrative Computer Science Department,1,4
+Club Area,Between the Administrative Biology Department and the Chemistry Department,1,12
